@@ -23,6 +23,7 @@ Difficulty levels can be changed using the "Poziom trudności" button levels inc
 * Easy - 10 attempts per game.
 * Normal - 6 attempts per game.
 * Difficult - 4 attempts in the game.
+
 After all attempts have been wasted, the hanged man will hang and the game will end.
 
 The "Dekoracje" button is responsible for visual changes on the game screen.
