@@ -1,6 +1,6 @@
 # Simple HangManGame
 
-Simple HangMan window game, polish language is highly recomended, because the game use polish signs and passwords.
+Simple HangMan window game, polish language is highly recomended, because the game use polish signs, words and passwords.
 
 
 ## How to run it?
