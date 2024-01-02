@@ -22,7 +22,7 @@ When you select the wrong character, the character will light up red and the par
 Difficulty levels can be changed using the "Poziom trudności" button levels included:
 * Easy - 10 attempts per game.
 * Normal - 6 attempts per game.
-* Difficult - 4 attempts in the game.
+* Hard - 4 attempts in the game.
 
 After all attempts have been wasted, the hanged man will hang and the game will end.
 
