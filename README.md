@@ -20,9 +20,9 @@ When you select the appropriate character, it will light up green and each chara
 When you select the wrong character, the character will light up red and the part of the hanged man on the right will be displayed.
 
 Difficulty levels can be changed using the "Poziom trudności" button levels included:
-* Easy - 10 attempts per game
-* Normal - 6 attempts per game
-* Difficult - 4 attempts in the game
+* Easy - 10 attempts per game.
+* Normal - 6 attempts per game.
+* Difficult - 4 attempts in the game.
 After all attempts have been wasted, the hanged man will hang and the game will end.
 
 The "Dekoracje" button is responsible for visual changes on the game screen.
